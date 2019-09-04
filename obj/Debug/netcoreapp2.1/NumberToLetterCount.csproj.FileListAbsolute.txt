@@ -1,0 +1,22 @@
+C:\Users\Shashank pc\source\repos\NumberToLetterCount\NumberToLetterCount\bin\Debug\netcoreapp2.1\NumberToLetterCount.deps.json
+C:\Users\Shashank pc\source\repos\NumberToLetterCount\NumberToLetterCount\bin\Debug\netcoreapp2.1\NumberToLetterCount.runtimeconfig.json
+C:\Users\Shashank pc\source\repos\NumberToLetterCount\NumberToLetterCount\bin\Debug\netcoreapp2.1\NumberToLetterCount.runtimeconfig.dev.json
+C:\Users\Shashank pc\source\repos\NumberToLetterCount\NumberToLetterCount\bin\Debug\netcoreapp2.1\NumberToLetterCount.dll
+C:\Users\Shashank pc\source\repos\NumberToLetterCount\NumberToLetterCount\bin\Debug\netcoreapp2.1\NumberToLetterCount.pdb
+C:\Users\Shashank pc\source\repos\NumberToLetterCount\NumberToLetterCount\obj\Debug\netcoreapp2.1\NumberToLetterCount.csprojAssemblyReference.cache
+C:\Users\Shashank pc\source\repos\NumberToLetterCount\NumberToLetterCount\obj\Debug\netcoreapp2.1\NumberToLetterCount.csproj.CoreCompileInputs.cache
+C:\Users\Shashank pc\source\repos\NumberToLetterCount\NumberToLetterCount\obj\Debug\netcoreapp2.1\NumberToLetterCount.AssemblyInfoInputs.cache
+C:\Users\Shashank pc\source\repos\NumberToLetterCount\NumberToLetterCount\obj\Debug\netcoreapp2.1\NumberToLetterCount.AssemblyInfo.cs
+C:\Users\Shashank pc\source\repos\NumberToLetterCount\NumberToLetterCount\obj\Debug\netcoreapp2.1\NumberToLetterCount.dll
+C:\Users\Shashank pc\source\repos\NumberToLetterCount\NumberToLetterCount\obj\Debug\netcoreapp2.1\NumberToLetterCount.pdb
+F:\GitHub\NumberToLetterCount\NumberToLetterCount\bin\Debug\netcoreapp2.1\NumberToLetterCount.deps.json
+F:\GitHub\NumberToLetterCount\NumberToLetterCount\bin\Debug\netcoreapp2.1\NumberToLetterCount.runtimeconfig.json
+F:\GitHub\NumberToLetterCount\NumberToLetterCount\bin\Debug\netcoreapp2.1\NumberToLetterCount.runtimeconfig.dev.json
+F:\GitHub\NumberToLetterCount\NumberToLetterCount\bin\Debug\netcoreapp2.1\NumberToLetterCount.dll
+F:\GitHub\NumberToLetterCount\NumberToLetterCount\bin\Debug\netcoreapp2.1\NumberToLetterCount.pdb
+F:\GitHub\NumberToLetterCount\NumberToLetterCount\obj\Debug\netcoreapp2.1\NumberToLetterCount.csprojAssemblyReference.cache
+F:\GitHub\NumberToLetterCount\NumberToLetterCount\obj\Debug\netcoreapp2.1\NumberToLetterCount.csproj.CoreCompileInputs.cache
+F:\GitHub\NumberToLetterCount\NumberToLetterCount\obj\Debug\netcoreapp2.1\NumberToLetterCount.AssemblyInfoInputs.cache
+F:\GitHub\NumberToLetterCount\NumberToLetterCount\obj\Debug\netcoreapp2.1\NumberToLetterCount.AssemblyInfo.cs
+F:\GitHub\NumberToLetterCount\NumberToLetterCount\obj\Debug\netcoreapp2.1\NumberToLetterCount.dll
+F:\GitHub\NumberToLetterCount\NumberToLetterCount\obj\Debug\netcoreapp2.1\NumberToLetterCount.pdb
